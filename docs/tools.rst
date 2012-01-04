@@ -94,10 +94,16 @@ Scales
 ------
 `Scales`_ is a Python server state and statistics library that can output its data to Graphite.
 
+
 Graphiti
 --------
 `Graphiti`_ is a powerful dashboard front end with a focus on ease of access, ease of recovery and
 ease of tweaking and manipulation.
+
+
+Graphios
+--------
+`Graphios`_ is a program to send Nagios performance data to Graphite.
 
 
 .. _Diamond: http://opensource.brightcove.com/project/Diamond/
@@ -119,3 +125,4 @@ ease of tweaking and manipulation.
 .. _Pencil: https://github.com/fetep/pencil
 .. _Graphite-relay: https://github.com/markchadwick/graphite-relay
 .. _Graphiti: https://github.com/paperlesspost/graphiti
+.. _Graphios: https://github.com/shawn-sterling/graphios
